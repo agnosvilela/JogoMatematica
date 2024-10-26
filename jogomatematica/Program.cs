@@ -27,8 +27,9 @@ namespace jogomatematica
 
                 Console.WriteLine("\nvocê acertou a resposta de " +respostasCorretas + " de " + quantidadeQuestoes);
                 Console.WriteLine("********************************");
-                Console.ReadLine();
+                
             }
+            Console.ReadLine();
 
 
         }
