@@ -1,0 +1,14 @@
+C:\Users\agnos\Source\repos\jogomatematica\bin\Debug\net8.0\jogomatematica.exe
+C:\Users\agnos\Source\repos\jogomatematica\bin\Debug\net8.0\jogomatematica.deps.json
+C:\Users\agnos\Source\repos\jogomatematica\bin\Debug\net8.0\jogomatematica.runtimeconfig.json
+C:\Users\agnos\Source\repos\jogomatematica\bin\Debug\net8.0\jogomatematica.dll
+C:\Users\agnos\Source\repos\jogomatematica\bin\Debug\net8.0\jogomatematica.pdb
+C:\Users\agnos\Source\repos\jogomatematica\obj\Debug\net8.0\jogomatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Source\repos\jogomatematica\obj\Debug\net8.0\jogomatematica.AssemblyInfoInputs.cache
+C:\Users\agnos\Source\repos\jogomatematica\obj\Debug\net8.0\jogomatematica.AssemblyInfo.cs
+C:\Users\agnos\Source\repos\jogomatematica\obj\Debug\net8.0\jogomatematica.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Source\repos\jogomatematica\obj\Debug\net8.0\jogomatematica.dll
+C:\Users\agnos\Source\repos\jogomatematica\obj\Debug\net8.0\refint\jogomatematica.dll
+C:\Users\agnos\Source\repos\jogomatematica\obj\Debug\net8.0\jogomatematica.pdb
+C:\Users\agnos\Source\repos\jogomatematica\obj\Debug\net8.0\jogomatematica.genruntimeconfig.cache
+C:\Users\agnos\Source\repos\jogomatematica\obj\Debug\net8.0\ref\jogomatematica.dll
